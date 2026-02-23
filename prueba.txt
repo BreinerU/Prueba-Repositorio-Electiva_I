@@ -2,3 +2,5 @@ Primera vez de la segunda vez serio jodiendo con Git
 aahora estoy cambiando cosas
 para saber si de verdad se pueden guardar en Git
 por ejemplo esto....
+otro cambio 
+para validar
